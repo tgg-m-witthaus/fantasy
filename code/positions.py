@@ -23,6 +23,7 @@ points_rolling_week6 = points_rolling[points_rolling.week==6]
 result = sm.ols(formula="dk_points ~ home + dk_salary + total + lag_one + lag_two + lag_three", data=points_rolling).fit()
 print result.params
 print result.summary()
+result.predict()
 
 points_rolling_week7 = points_rolling[points_rolling.week==7]
 
