@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+z# -*- coding: utf-8 -*-
 # <nbformat>3.0</nbformat>
 
 # <codecell>
@@ -209,37 +209,3 @@ data
 
 # Print the master baby to a CSV
 data.to_csv('team_table.csv', index = False)
-
-# <codecell>
-
-                                    'BuffaloBills', 'BUF',
-                                    'New YorkJets', 'NYJ',
-                                    'CarolinaPanthers', 'CAR',
-                                    'AtlantaFalcons', 'ATL',
-                                    'ChicagoBears', 'CHI',
-                                    'Kansas CityChiefs', 'KC',
-                                    'SeattleSeahawks', 'SEA',
-                                    'TennesseeTitans', 'TEN',
-                                    'CincinnatiBengals', 'CIN',
-                                    'Green BayPackers', 'GB',
-                                    'San DiegoChargers', 'SD',
-                                    'ClevelandBrowns', 'CLE',
-                                    'St. LouisRams', 'STL',
-                                    'Tampa BayBuccaneers', 'TB',
-                                    'PittsburghSteelers', 'PIT',
-                                    'ArizonaCardinals', 'ARI',
-                                    'DenverBroncos', 'DEN',
-                                    'New EnglandPatriots', 'NWE',
-                                    'New YorkGiants', 'NYG',
-                                    'BaltimoreRavens', 'BAL',
-                                    'DallasCowboys', 'DAL',
-                                    'HoustonTexans', 'HOU',
-                                    'JacksonvilleJaguars', 'JAC',
-                                    'New OrleansSaints', 'NOR',
-                                    'MiamiDolphins', 'MIA',
-                                    'IndianapolisColts', 'IND',
-                                    'MinnesotaVikings', 'MIN',
-                                    'DetroitLions', 'DET',
-                                    'OaklandRaiders', 'OAK',
-                                    'PhiladelphiaEagles', 'PHI'
-
